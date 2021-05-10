@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df7fd99b-8e5b-428a-a757-dc7f76047e8e" name="Default Changelist" comment="~// Refactor">
+    <list default="true" id="df7fd99b-8e5b-428a-a757-dc7f76047e8e" name="Default Changelist" comment="~// .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_filtering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regression_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regression_model.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +120,7 @@
       <workItem from="1618777543817" duration="4002000" />
       <workItem from="1618847452152" duration="34000" />
       <workItem from="1619473603782" duration="11848000" />
-      <workItem from="1620662899063" duration="3868000" />
+      <workItem from="1620662899063" duration="4248000" />
     </task>
     <task id="LOCAL-00001" summary="~// Plot correlation parameters">
       <created>1619481279556</created>
@@ -173,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619520807967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="~// Sanity checks for estimated parameters">
+      <created>1620669402971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620669402971</updated>
+    </task>
+    <task id="LOCAL-00009" summary="~// Sanity checks before plotting posteriors and using samples for resimulation. ToDo: Decide if plotting the mean of the posteriors or posterior for random samples">
+      <created>1620669495081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620669495081</updated>
+    </task>
+    <task id="LOCAL-00010" summary="~// .gitignore">
+      <created>1620669589442</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620669589442</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +217,9 @@
     <MESSAGE value="~// Re-simulation" />
     <MESSAGE value="~// Compartiment time series" />
     <MESSAGE value="~// Reformat" />
-    <option name="LAST_COMMIT_MESSAGE" value="~// Reformat" />
+    <MESSAGE value="~// Sanity checks for estimated parameters" />
+    <MESSAGE value="~// Sanity checks before plotting posteriors and using samples for resimulation. ToDo: Decide if plotting the mean of the posteriors or posterior for random samples" />
+    <MESSAGE value="~// .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="~// .gitignore" />
   </component>
 </project>
