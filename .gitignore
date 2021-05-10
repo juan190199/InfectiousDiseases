@@ -1,4 +1,4 @@
-InfectiousDisease/.idea/
+*.idea/
 
 ### Django ###
 *.log
